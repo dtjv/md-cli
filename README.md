@@ -3,6 +3,10 @@
 A Node.js command-line utility to convert a
 [GFM](https://github.github.com/gfm/) file to a GitHub styled HTML file.
 
+## Install
+
+    npm install -g git+https://github.com/dtjv/md-cli.git
+
 ## Usage
 
 ```sh
